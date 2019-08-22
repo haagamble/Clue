@@ -1,2 +1,0 @@
-# Clue
-Created with CodeSandbox
