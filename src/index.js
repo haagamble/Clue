@@ -51,6 +51,7 @@ class App extends React.Component {
       a01: "",
       clue: "test"
     });
+    event.preventDefault();
   }
 
   handleSubmit02(event) {
@@ -62,6 +63,7 @@ class App extends React.Component {
     this.setState({
       a02: ""
     });
+    event.preventDefault();
   }
 
   handleSubmit03(event) {
@@ -73,6 +75,7 @@ class App extends React.Component {
     this.setState({
       a03: ""
     });
+    event.preventDefault();
   }
 
   handleSubmit04(event) {
@@ -84,6 +87,7 @@ class App extends React.Component {
     this.setState({
       a04: ""
     });
+    event.preventDefault();
   }
 
   handleSubmit05(event) {
@@ -95,6 +99,7 @@ class App extends React.Component {
     this.setState({
       a05: ""
     });
+    event.preventDefault();
   }
 
   handleSubmit06(event) {
@@ -106,6 +111,7 @@ class App extends React.Component {
     this.setState({
       a06: ""
     });
+    event.preventDefault();
   }
 
   handleSubmit07(event) {
@@ -117,6 +123,7 @@ class App extends React.Component {
     this.setState({
       a07: ""
     });
+    event.preventDefault();
   }
 
   handleSubmit08(event) {
@@ -128,6 +135,7 @@ class App extends React.Component {
     this.setState({
       a08: ""
     });
+    event.preventDefault();
   }
 
   handleSubmit09(event) {
@@ -139,6 +147,7 @@ class App extends React.Component {
     this.setState({
       a09: ""
     });
+    event.preventDefault();
   }
 
   handleSubmit10(event) {
@@ -150,6 +159,7 @@ class App extends React.Component {
     this.setState({
       a10: ""
     });
+    event.preventDefault();
   }
 
   render() {
